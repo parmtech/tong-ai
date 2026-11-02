@@ -43,7 +43,7 @@ Original repository code and documentation are offered under **Apache License 2.
 
 ## Accurate public status
 - ✅ Documentation scaffold, initial detailed plan, governance templates, and 1,000-FAQ knowledge base assembled.
-- ✅ CPU-only **offline simulator** for scheduling/credits plus standard-library tests included.
+- 📦 CPU-only **offline simulator** and tests exist in the downloadable 40-file starter ZIP, but their source files are not yet committed to GitHub.
 - ❌ No live decentralized deployment, trained frontier model, nonprofit registration, paid subscription or 3-second production SLO achieved.
 
-**Initial maintainer action:** create a new **public** GitHub repository named `tong-ai`, import this starter package, configure branch rules and run CI. See the setup guide.
+**Next maintainer action:** import the remaining starter ZIP files (including `LICENSE`, simulator, tests and CI); configure branch rules, publish topics, run CI, and update this handoff. See [Issue #1](https://github.com/parmtech/tong-ai/issues/1).
