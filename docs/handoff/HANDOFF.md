@@ -1,5 +1,8 @@
 # TONG AI — Live Handoff / Single Starting Point
 
+> **Branding / Wiki update — 2026-11-02:** Added `assets/tong-ai-logo.svg`, `assets/tong-ai-banner.svg` and `docs/WIKI_HOME.md` to `main`; README now features the banner and a Wiki Home link. The GitHub Wiki `Home` page is a separate wiki repository and requires its own Save page action; do **not** mark it published before confirmation. Documented wiki content can be pasted from `docs/WIKI_HOME.md`. Continue M0 remaining starter import and tests.
+
+
 > **GitHub status update (2026-11-02):** Public repository `parmtech/tong-ai` is active. The README, A–Z blueprint, 1,000 technical FAQ, governance and core handoff documents have been committed. GitHub Issues and Discussions are enabled, with kickoff [Issue #1](https://github.com/parmtech/tong-ai/issues/1). **This is a partial docs import:** the full 40-file starter ZIP (including LICENSE, CPU simulator, test suite and CI workflow) has **not** yet been fully committed. GitHub repository topics are not configured. Next action: import remaining files from the prepared ZIP, verify 1,000 FAQ and 10 tests locally/CI, add topics and branch protection. Do not claim the executable demo is in the repository until verified.
 
 **Document status:** baseline handoff created 2026-11-02; version `0.1.0-docs`; publication awaiting first source commit. **Verified public repository:** https://github.com/parmtech/tong-ai (empty at last check). **Kickoff issue:** https://github.com/parmtech/tong-ai/issues/1. **Owner/maintainer:** GitHub account `parmtech`; community maintainer roles not yet assigned. **Last confirmed activity:** public repository and Issue #1 created; starter files assembled and tested locally, not pushed.
