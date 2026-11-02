@@ -1,5 +1,12 @@
 # TONG AI — Open Collective Intelligence Research
 
+<p align="center"><img src="assets/tong-ai-banner.svg" alt="TONG AI — Build Intelligence Together" width="100%" /></p>
+
+<p align="center"><strong>Build Intelligence Together · Open Collective Intelligence Research</strong></p>
+
+**[Project Wiki Home](docs/WIKI_HOME.md)** · **[A–Z Blueprint](docs/BLUEPRINT_A_TO_Z.md)** · **[1,000 Technical FAQs](docs/faq/FAQ_1000.md)** · **[Live Handoff](docs/handoff/HANDOFF.md)**
+
+
 **Stage:** public-repository starter kit / architecture design; **not** a deployed AI network or production-trained foundation model. **Version:** `0.1.0-docs` · **Date:** 2026-11-02.
 
 > **Punjabi:** TONG AI ਇੱਕ ਖੁੱਲ੍ਹਾ, CPU-first, peer-to-peer AI research project ਹੈ। ਇਸਦਾ ਮਕਸਦ ਦੁਨੀਆ ਭਰ ਦੇ ਸਹਿਮਤੀ ਦੇਣ ਵਾਲੇ devices ਦੀ compute ਅਤੇ knowledge ਨੂੰ ਸੁਰੱਖਿਅਤ ਤਰੀਕੇ ਨਾਲ ਜੋੜ ਕੇ ਘੱਟ energy ਵਿੱਚ ਵਧੀਆ intelligence ਵਿਕਸਿਤ ਕਰਨਾ ਹੈ। ਇਹ ਹਾਲੇ research ਅਤੇ design stage ਵਿੱਚ ਹੈ; ਕਿਸੇ commercial model ਨੂੰ ਪਿੱਛੇ ਛੱਡਣ ਜਾਂ ਹਰ ਜਵਾਬ 3 ਸਕਿੰਟ ਵਿੱਚ ਦੇਣ ਦਾ ਦਾਅਵਾ ਨਹੀਂ ਹੈ।
