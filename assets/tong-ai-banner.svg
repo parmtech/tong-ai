@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 480" role="img" aria-labelledby="title desc">
+<title id="title">TONG AI — Build Intelligence Together</title><desc id="desc">Futuristic dark blue banner with a distributed neural-network T logo and the TONG AI tagline.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071224"/><stop offset="1" stop-color="#151343"/></linearGradient>
+<linearGradient id="neon" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#58EDFC"/><stop offset=".55" stop-color="#5284FE"/><stop offset="1" stop-color="#A776FF"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<rect width="1440" height="480" rx="38" fill="url(#bg)"/>
+<circle cx="244" cy="240" r="166" fill="none" stroke="url(#neon)" stroke-width="5"/>
+<g stroke="url(#neon)" stroke-width="3" opacity=".8">
+<path d="M244 74L361 123 410 240 363 360 244 406 127 361 78 240 128 124Z"/>
+<path d="M244 74V144M361 123L317 164M410 240H345M363 360L316 316M244 406V343M127 361L168 313M78 240H142M128 124L171 166"/>
+</g>
+<g fill="#78DFFF"><circle cx="244" cy="74" r="10"/><circle cx="361" cy="123" r="10"/><circle cx="410" cy="240" r="10"/><circle cx="363" cy="360" r="10"/><circle cx="244" cy="406" r="10"/><circle cx="127" cy="361" r="10"/><circle cx="78" cy="240" r="10"/><circle cx="128" cy="124" r="10"/></g>
+<path d="M151 169H337V203H261V329H227V203H151Z" fill="#82E0FF" opacity=".7" filter="url(#glow)"/>
+<path d="M151 169H337V203H261V329H227V203H151Z" fill="#ECF9FF"/>
+<text x="485" y="215" fill="#F4FAFF" font-family="Arial,Helvetica,sans-serif" font-size="100" font-weight="800" letter-spacing="5">TONG AI</text>
+<text x="489" y="279" fill="#83DDFC" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="600">Build Intelligence Together</text>
+<text x="489" y="337" fill="#C7D5F2" font-family="Arial,Helvetica,sans-serif" font-size="22">Open Source  ·  CPU-First  ·  Peer-to-Peer  ·  Collective Intelligence</text>
+</svg>
