@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+<title id="title">TONG AI logo</title><desc id="desc">Luminous T monogram surrounded by a connected ring of independent neural nodes.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071224"/><stop offset="1" stop-color="#121137"/></linearGradient>
+<linearGradient id="neon" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#49F1FF"/><stop offset=".56" stop-color="#417BFA"/><stop offset="1" stop-color="#A36CFF"/></linearGradient>
+<linearGradient id="silver" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#A9DEFF"/></linearGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<rect width="1024" height="1024" rx="220" fill="url(#bg)"/>
+<circle cx="512" cy="512" r="314" fill="none" stroke="url(#neon)" stroke-width="7" opacity=".8"/>
+<circle cx="512" cy="512" r="263" fill="none" stroke="#4CA9F4" stroke-width="2" stroke-dasharray="7 17" opacity=".4"/>
+<g stroke="url(#neon)" stroke-width="6" stroke-linecap="round" opacity=".75">
+<path d="M512 198L724 278 826 512 730 735 512 826 283 730 198 512 290 286Z"/>
+<path d="M512 198L512 320M724 278L656 352M826 512H710M730 735L650 664M512 826V706M283 730L362 660M198 512H314M290 286L366 352"/>
+</g>
+<g fill="#74DBFF"><circle cx="512" cy="198" r="20"/><circle cx="724" cy="278" r="17"/><circle cx="826" cy="512" r="20"/><circle cx="730" cy="735" r="17"/><circle cx="512" cy="826" r="20"/><circle cx="283" cy="730" r="17"/><circle cx="198" cy="512" r="20"/><circle cx="290" cy="286" r="17"/></g>
+<path d="M340 358H684V431H548V692H476V431H340Z" fill="#64D7FF" filter="url(#glow)" opacity=".65"/>
+<path d="M340 358H684V431H548V692H476V431H340Z" fill="url(#silver)"/>
+</svg>
