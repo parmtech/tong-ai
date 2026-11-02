@@ -1,0 +1,3 @@
+# Code of Conduct
+
+Be respectful across languages and cultures. Critique technical claims, not people. No harassment, threats, doxxing, discriminatory abuse, unauthorized data collection or malicious submissions. Maintainers may moderate issues and PRs with documented rationale and an appeal path. Until official organization contacts exist, report incidents privately through GitHub's maintainer contact or security reporting channel where available.
